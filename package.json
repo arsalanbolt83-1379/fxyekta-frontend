@@ -1,0 +1,12 @@
+{
+  "name": "fxyekta-frontend-portfolio",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs --open",
+    "start": "node server.mjs --open",
+    "check": "node --check site.js && node --check server.mjs && node --check app-demo.js && node --check portfolio-demo.js && node --check admin/app.js",
+    "build:pages": "node scripts/build-pages.mjs"
+  }
+}

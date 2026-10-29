@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+ <symbol id="arrow-up-right" viewBox="0 0 24 24"><path d="M6 18 18 6M6 6h12v12"/></symbol>
+ <symbol id="arrow-down" viewBox="0 0 24 24"><path d="M12 4v16m-6-6 6 6 6-6"/></symbol>
+ <symbol id="arrow-down-left" viewBox="0 0 24 24"><path d="M18 6 6 18M6 6v12h12"/></symbol>
+ <symbol id="menu" viewBox="0 0 24 24"><path d="M5 7h14M5 12h14M5 17h14"/></symbol>
+ <symbol id="close" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+</svg>

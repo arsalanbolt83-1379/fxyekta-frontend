@@ -1,0 +1,216 @@
+{
+  "sourceCommit": "c953bad112cd0277136157dae792008e94d270ba",
+  "license": "Web3 Icons MIT; additional token images via CoinGecko. Token trademarks remain with their owners.",
+  "icons": {
+    "BTC": {
+      "file": "assets/coins/BTC.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/BTC.svg"
+    },
+    "ETH": {
+      "file": "assets/coins/ETH.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/ETH.svg"
+    },
+    "BNB": {
+      "file": "assets/coins/BNB.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/BNB.svg"
+    },
+    "SOL": {
+      "file": "assets/coins/SOL.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/SOL.svg"
+    },
+    "XRP": {
+      "file": "assets/coins/XRP.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/XRP.svg"
+    },
+    "DOGE": {
+      "file": "assets/coins/DOGE.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/DOGE.svg"
+    },
+    "ADA": {
+      "file": "assets/coins/ADA.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/ADA.svg"
+    },
+    "LINK": {
+      "file": "assets/coins/LINK.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/LINK.svg"
+    },
+    "AVAX": {
+      "file": "assets/coins/AVAX.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/AVAX.svg"
+    },
+    "LTC": {
+      "file": "assets/coins/LTC.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/LTC.svg"
+    },
+    "BCH": {
+      "file": "assets/coins/BCH.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/BCH.svg"
+    },
+    "DOT": {
+      "file": "assets/coins/DOT.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/DOT.svg"
+    },
+    "TRX": {
+      "file": "assets/coins/TRX.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/TRX.svg"
+    },
+    "UNI": {
+      "file": "assets/coins/UNI.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/UNI.svg"
+    },
+    "AAVE": {
+      "file": "assets/coins/AAVE.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/AAVE.svg"
+    },
+    "ETC": {
+      "file": "assets/coins/ETC.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/ETC.svg"
+    },
+    "NEAR": {
+      "file": "assets/coins/NEAR.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/NEAR.svg"
+    },
+    "APT": {
+      "file": "assets/coins/APT.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/APT.svg"
+    },
+    "ATOM": {
+      "file": "assets/coins/ATOM.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/ATOM.svg"
+    },
+    "FIL": {
+      "file": "assets/coins/FIL.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/FIL.svg"
+    },
+    "ZEC": {
+      "file": "assets/coins/ZEC.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/ZEC.svg"
+    },
+    "SUI": {
+      "file": "assets/coins/SUI.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/SUI.svg"
+    },
+    "1000PEPE": {
+      "file": "assets/coins/1000PEPE.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/PEPE.svg"
+    },
+    "DASH": {
+      "file": "assets/coins/DASH.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/DASH.svg"
+    },
+    "ENA": {
+      "file": "assets/coins/ENA.png",
+      "source": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436",
+      "identity": "ethena"
+    },
+    "ICP": {
+      "file": "assets/coins/ICP.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/ICP.svg"
+    },
+    "STRK": {
+      "file": "assets/coins/STRK.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/STRK.svg"
+    },
+    "WLD": {
+      "file": "assets/coins/WLD.jpg",
+      "source": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903",
+      "identity": "worldcoin-wld"
+    },
+    "TAO": {
+      "file": "assets/coins/TAO.jpg",
+      "source": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447",
+      "identity": "bittensor"
+    },
+    "ZK": {
+      "file": "assets/coins/ZK.png",
+      "source": "https://coin-images.coingecko.com/coins/images/38043/large/ZKTokenBlack.png?1718614502",
+      "identity": "zksync"
+    },
+    "ARB": {
+      "file": "assets/coins/ARB.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/ARB.svg"
+    },
+    "FET": {
+      "file": "assets/coins/FET.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/FET.svg"
+    },
+    "1000SHIB": {
+      "file": "assets/coins/1000SHIB.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/SHIB.svg"
+    },
+    "HBAR": {
+      "file": "assets/coins/HBAR.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/HBAR.svg"
+    },
+    "WIF": {
+      "file": "assets/coins/WIF.jpg",
+      "source": "https://coin-images.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
+      "identity": "dogwifcoin"
+    },
+    "TIA": {
+      "file": "assets/coins/TIA.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/TIA.svg"
+    },
+    "CRV": {
+      "file": "assets/coins/CRV.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/CRV.svg"
+    },
+    "XLM": {
+      "file": "assets/coins/XLM.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/XLM.svg"
+    },
+    "OP": {
+      "file": "assets/coins/OP.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/OP.svg"
+    },
+    "1000BONK": {
+      "file": "assets/coins/1000BONK.jpg",
+      "source": "https://coin-images.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587",
+      "identity": "bonk"
+    },
+    "INJ": {
+      "file": "assets/coins/INJ.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/INJ.svg"
+    },
+    "SEI": {
+      "file": "assets/coins/SEI.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/SEI.svg"
+    },
+    "LDO": {
+      "file": "assets/coins/LDO.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/LDO.svg"
+    },
+    "ONDO": {
+      "file": "assets/coins/ONDO.png",
+      "source": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656",
+      "identity": "ondo-finance"
+    },
+    "RENDER": {
+      "file": "assets/coins/RENDER.png",
+      "source": "https://coin-images.coingecko.com/coins/images/11636/large/rndr.png?1696511529",
+      "identity": "render-token"
+    },
+    "PENDLE": {
+      "file": "assets/coins/PENDLE.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/PENDLE.svg"
+    },
+    "ALGO": {
+      "file": "assets/coins/ALGO.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/ALGO.svg"
+    },
+    "POL": {
+      "file": "assets/coins/POL.svg",
+      "source": "https://raw.githubusercontent.com/0xa3k5/web3icons/c953bad112cd0277136157dae792008e94d270ba/packages/core/src/svgs/tokens/branded/POL.svg"
+    },
+    "JUP": {
+      "file": "assets/coins/JUP.png",
+      "source": "https://coin-images.coingecko.com/coins/images/34188/large/jup.png?1704266489",
+      "identity": "jupiter-exchange-solana"
+    },
+    "1000FLOKI": {
+      "file": "assets/coins/1000FLOKI.png",
+      "source": "https://coin-images.coingecko.com/coins/images/16746/large/PNG_image.png?1696516318",
+      "identity": "floki"
+    }
+  }
+}
